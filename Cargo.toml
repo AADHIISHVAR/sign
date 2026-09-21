@@ -1,0 +1,10 @@
+[package]
+name = "sign_board_cnn"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.25"
+imageproc = "0.25"
+anyhow = "1.0"
+tract-onnx = "0.23.1"
